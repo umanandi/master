@@ -6,7 +6,8 @@ package com.test;
 public class Test {
 
     public static void main(String[] args) {
-
+  log("Testing ");
+		log("Testing 4");
         log("Testing modified");
 		log("Testing another log");
 		log("Testing 7");
